@@ -1,2 +1,2 @@
 # Java Terminal Group Chat/Chatroom
-Simple Group chatting/chatroom program written in Java using Sockets
+Simple Group chatting/chatroom program written in Java using Sockets and Threads
